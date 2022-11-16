@@ -1,0 +1,27 @@
+{
+  "name": "primeiro-servidor-cubos",
+  "version": "1.0.0",
+  "description": "Esse projeto foi desenvolvido na aula de primeiro servidor do curso da Curso Academy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglas1777/atividadesServidorCubos.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "npm"
+  ],
+  "author": "Douglas Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douglas1777/atividadesServidorCubos/issues"
+  },
+  "homepage": "https://github.com/douglas1777/atividadesServidorCubos#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
